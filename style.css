@@ -1,0 +1,262 @@
+
+.ducomentes{
+    background: url(img/donation5.jpg);
+   
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+   
+}
+.font{
+   margin-left: 400px;
+    position: absolute;  
+   
+}
+.font1{
+    font-size: 4rem;
+    color:blue;
+    font-weight: 800;
+    text-align: center;
+    
+    
+
+}
+.font2{
+    font-size: 1.5rem;
+    color:#ffff;
+    font-style: italic;
+    font-weight: 200;
+    text-align: center;
+
+}
+#Donate{
+text-decoration: none;
+background-color: orange;
+padding: 10px 40px;
+border-radius: 15px;
+margin-left: 300px;
+margin-top: 50px;
+}
+   
+.ducomentes1 {
+    height: 100vh;
+    width: 100%;
+   color: orange;
+}
+.posetion{
+    text-align: center;
+    color:black;
+    margin-top: 5%;
+}
+#Donate1{
+    font-size: 3.5rem;
+    color:black;
+    font-weight: 800;
+}
+.some{
+    font-size: 1.5rem;
+    color: black;
+    font-style: italic;
+    font-weight: 100;
+}
+
+.donettk1{
+    font-size: 2rem;
+    color: black;
+    margin-left: 500px;
+    background-color:oldlace;
+    height: 60px;
+    width: 90px;
+}
+
+.donettk2{
+    font-size: 2rem;
+    color: black;
+    margin-left: 600px;
+    background-color:oldlace;
+    height: 60px;
+    width: 90px;
+    margin-top: -60px;
+}
+.donettk3{
+    font-size: 2rem;
+    color: black;
+    margin-left: 700px;
+    background-color:oldlace;
+    height: 60px;
+    width: 90px;
+    margin-top: -60px;
+}
+.donettk4{
+    font-size: 2rem;
+    color: black;
+    margin-left: 800px;
+    background-color:oldlace;
+    height: 60px;
+    width: 90px;
+    margin-top: -60px;
+}
+.donettk5{
+    font-size: 2rem;
+    color: black;
+    margin-left: 900px;
+    background-color:oldlace;
+    height: 60px;
+    width: 90px;
+    margin-top: -60px;
+}
+.amunttk{
+    text-align: center;
+    margin-top: 50px;
+}
+.margin{
+    height: 1px;
+    width: 500px;
+   background-color: black;
+   margin-left: 500px;
+}
+.DonateNow{
+    margin-top: 30px;
+    font-size: 1.5rem;
+    color: #ffff;
+    height: 40px;
+    width: 150px;
+    background-color:  tomato ;
+    border-radius: 15px;
+   
+}
+.donateplan{
+    text-align: center;
+    margin-top: 70px;
+}
+.our{
+   color: black;
+   font-size: 3rem;
+
+}
+.when{
+    font-size: 1.5rem;
+   font-style: italic;
+   color: black;
+}
+.card{
+    height: 100vh;
+    width: 100%;
+    background-color:#ffff;
+    position: relative;
+   
+}
+.icon{
+    font-size: 3rem;
+    margin-top: 5%;
+}
+.card1{
+    height: 250px;
+    width: 250px;
+    background-color: bisque;
+    margin-left: 280px;
+    padding-left: 20px;
+    border-radius: 10px;
+}
+.card2{
+    height: 250px;
+    width: 250px;
+    background-color:tomato;
+    margin-left: 600px;
+    padding-left: 20px;
+    margin-top: -270px;
+    border-radius: 10px;
+}
+.card3{
+    height: 250px;
+    width: 250px;
+    background-color:orchid;
+    margin-left: 920px;
+    padding-left: 20px;
+    margin-top: -260px;
+    border-radius: 10px;
+}
+.manej{
+    display: flex;
+}
+.Therlives{
+    margin-left: 280px;
+    margin-top: 80px;
+}
+.ther{
+    font-size: 2.5rem;
+}
+.lorem{
+    font-size: 1.3rem;
+    font-style: italic;
+}
+.how{
+    height: 40px;
+    width: 200px;
+    color: #ffff;
+    background-color: orangered;
+     font-size: 1rem;
+    font-weight: 600; 
+    border-radius: 10px;
+}
+.src{
+   margin-top: 50px;
+   margin-left: 60px;
+}
+.src1{
+    height: 400px;
+    width: 450px;
+    border-radius: 10px;
+}
+.bgcolor{
+     height: 60vh;
+    width: 100%;
+    position: relative;
+}
+
+.myupdeates{
+    margin-top: 100px;
+    text-align: center;
+}
+.ipsum{
+    font-size: 1.5rem;
+    font-weight: 100;
+    font-style: italic;
+
+}
+.email{
+    text-align: center;
+    margin-top: 100px;
+    box-shadow: 10px 10px 40px gray;
+width: 40%;
+padding-left: 20px;
+border-radius: 10px;
+height: 25%;
+margin-left: 450px;
+}
+.text1{
+    margin-top: 45px;
+    height: 30px;
+    width: 200px;
+    border: 2px solid black;
+    font-size: 1rem;
+}
+#subscribe{
+   height: 40px; 
+   width: 130px;
+   background-color: orangered;
+   margin-left: -5px;
+   border-radius: 3px;
+   font-size: 1rem;
+
+}
+.bgcolor1{
+    height: 15vh;
+    width: 100%;
+    background-color: black;
+    text-align: center;
+    color: #ffff;
+    font-style: oblique;
+}
